@@ -1,0 +1,8 @@
+{
+  "env":{
+    "production":{
+      "plugins":["transform-runtime"]
+    },
+    "comment":false
+  }
+}
